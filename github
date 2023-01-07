@@ -1,0 +1,13 @@
+//// first time from the new folder
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Aakashdeveloper/zomjan.git
+git push -u origin master
+
+
+
+////// Next all time from same folder
+git add .
+git commit -m "first commit"
+git push
