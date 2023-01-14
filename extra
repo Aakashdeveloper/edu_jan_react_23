@@ -78,3 +78,11 @@ expoGo
 (get) allorder>            
        
 (get) restaurants>         http://3.17.216.66:4000/restaurants
+
+
+///////////
+> open cmd as administrator
+> npm i -g json-server
+
+
+> json-server --watch orders.json --port 9888
